@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GesturesTest</string>
+    <string name="buckys_text">TextView</string>
+</resources>
